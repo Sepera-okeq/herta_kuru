@@ -7,9 +7,9 @@
         "en": {
             audioList: null,
             texts: {
-                "page-title": "Welcome to herta kuru~",
+                "page-title": "Привет на сайте Герты! kuru~",
                 "doc-title": "Kuru Kuru~",
-                "page-descriptions": "The website for Herta, the <del>annoying</del> cutest genius Honkai: Star Rail character out there.",
+                "page-descriptions": "Веб-сайт Герты, самого <del>раздражающего</del> милейшего персонажа гения Honkai: Star Rail.",
                 "counter-descriptions": ["The kuru~ has been squished for", "Herta has been kuru~ed for"],
                 "counter-unit": "times",
                 "counter-button": ["Squish the kuru~!", "Kuru kuru~!"],
