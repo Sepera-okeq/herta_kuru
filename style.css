@@ -6,6 +6,9 @@
     touch-action: manipulation;
     /* strange margin-right occurs when vw<500px */
     /* overflow-x: hidden; */
+}
+
+html {
     background-color: #9d88d3;
 }
 
